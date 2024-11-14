@@ -73,6 +73,10 @@
 </a>
 </div>
 
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/65ded96a8947e435e7437fe5?variant=dark" alt="roadmap.sh"/></a>
+
+![LeetCode Stats](https://leetcode.card.workers.dev/xaryab?theme=dark&font=source_code_pro&extension=activity)
+
 [website]: https://zarayab.site
 [linkedin]: https://www.linkedin.com/in/zaryabdev/
 [mail]: mailto:xaryabdev@gmail.com
